@@ -1,0 +1,167 @@
+@font-face  {
+    font-family: "circular";
+    src: url("../fonts/circular-std-medium-500.ttf") format("ttf");
+    font-display:swap;
+    font-weight:500 ;
+    font-style: normal;
+}
+
+@font-face  {
+    font-family: "NetCircular";
+    src: url("../fonts/FontsFree-Net-CircularStd-Bold.ttf") format("ttf");
+    font-display:swap;
+    font-weight:700 ;
+    font-style: normal;
+}
+
+
+body {
+    background-color: rgb(194, 184, 184);
+}
+
+a {
+    text-decoration: none;
+}
+
+.firsttitle {
+    font-size: 26px;
+    font-family: cursive;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.block {
+    width: 800px;
+    height: 200px;
+    background-color: #fff;
+    margin-top: 50px;
+    margin-left: 250px;
+    border-radius: 25px;
+}
+
+.text {
+    font-size: 30px;
+    padding-left: 210px;
+    font-family: cursive;
+    padding-top: 50px;
+}
+
+.second a + a {
+    padding-left: 50px;
+}
+
+.second {
+    padding-top: 10px;
+    padding-left: 230px;
+}
+
+.music {
+    font-size: 30px;
+    font-family: cursive;
+    padding-left: 150px;
+    padding-top: 100px;
+}
+
+.into {
+    padding-left: 150px;
+    font-family: cursive;
+    padding-top: 50px;
+}
+
+.lists {
+    padding-left: 700px;
+    font-family: cursive;
+    padding-top: 50px;
+}
+
+.present {
+    color: brown;
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.textin {
+    font-family: cursive;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 150px;
+    word-spacing: 10px;
+}
+
+.work {
+    font-family: "circular";
+    font-size: 23px;
+    padding-left: 150px;
+    padding-top: 50px;
+    color: rgb(39, 12, 48);
+    text-shadow: -1px 1px 5px rgb(135, 135, 135);
+}
+
+
+.study {
+    font-family:"NetCircular";
+    padding-left: 150px;
+    padding-top: 30px;
+    padding-right: 150px;
+}
+
+.do {
+    font-family: cursive;
+    padding-top: 30px;
+    padding-left: 150px;
+}
+
+.denial {
+    font-family: cursive;
+    padding-top: 30px;
+    padding-left: 150px;
+    font-size: 23px;
+    text-shadow: -1px 1px 5px rgb(135, 135, 135);
+}
+
+.firstform {
+    padding-top: 30px;
+    padding-left: 150px;
+    font-family: cursive;
+    color: crimson;
+    padding-right: 150px;
+}
+
+.notspeak {
+    font-family: cursive;
+    padding-left: 40px;
+    padding-top: 30px;
+
+}
+
+.some {
+    margin-left: 100px;
+    border-radius: 60px;
+    background-color: pink;
+    width: 470px;
+    height:150px ;
+}
+
+.firstformm {
+    padding-top: 30px;
+    padding-left: 150px;
+    font-family: cursive;
+    color: rgb(5, 8, 111);
+    padding-right: 150px;
+}
+
+.long {
+    padding-left: 150px;
+    font-family: cursive;
+    padding-top: 30px;
+}
+
+.verb {
+    padding-left: 150px;
+    padding-top: 30px;
+    padding-right: 150px;
+    color: darkblue;
+    font-family: cursive;
+}
